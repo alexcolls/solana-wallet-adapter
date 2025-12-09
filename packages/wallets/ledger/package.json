@@ -42,7 +42,7 @@
         "buffer": "^6.0.3"
     },
     "devDependencies": {
-        "@solana/web3.js": "^1.98.2",
+        "@solana/web3.js": "^1.98.4",
         "@types/w3c-web-hid": "^1.0.6",
         "shx": "^0.4.0"
     },

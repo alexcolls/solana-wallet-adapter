@@ -43,7 +43,7 @@
         "stream-browserify": "^3.0.0"
     },
     "devDependencies": {
-        "@solana/web3.js": "^1.98.2",
+        "@solana/web3.js": "^1.98.4",
         "@types/readable-stream": "^4.0.20",
         "shx": "^0.4.0"
     },
